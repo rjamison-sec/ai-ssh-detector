@@ -1,0 +1,16 @@
+[2026-04-27 13:08:28] [MEDIUM] Suspicious activity from 127.0.0.1
+[2026-04-27 13:08:31] [HIGH] Brute force likely from 127.0.0.1
+[2026-04-27 13:08:35] [CRITICAL] Active attack from 127.0.0.1 (5 attempts)
+[2026-04-27 13:08:37] [CRITICAL] Active attack from 127.0.0.1 (6 attempts)
+[2026-04-27 13:08:42] [CRITICAL] Active attack from 127.0.0.1 (7 attempts)
+[2026-04-27 13:08:44] [CRITICAL] Active attack from 127.0.0.1 (8 attempts)
+[2026-04-27 13:08:46] [CRITICAL] Active attack from 127.0.0.1 (9 attempts)
+[2026-04-27 13:08:50] [CRITICAL] Active attack from 127.0.0.1 (10 attempts)
+[2026-04-27 13:08:52] [CRITICAL] Active attack from 127.0.0.1 (11 attempts)
+[2026-04-27 13:08:54] [CRITICAL] Active attack from 127.0.0.1 (12 attempts)
+[2026-04-27 13:08:57] [CRITICAL] Active attack from 127.0.0.1 (13 attempts)
+[2026-04-27 13:08:59] [CRITICAL] Active attack from 127.0.0.1 (14 attempts)
+[2026-04-27 13:09:01] [CRITICAL] Active attack from 127.0.0.1 (15 attempts)
+[2026-04-27 13:09:04] [CRITICAL] Active attack from 127.0.0.1 (16 attempts)
+[2026-04-27 13:09:06] [CRITICAL] Active attack from 127.0.0.1 (17 attempts)
+[2026-04-27 13:09:08] [CRITICAL] Active attack from 127.0.0.1 (18 attempts)
